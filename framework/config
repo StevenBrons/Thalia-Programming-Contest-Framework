@@ -1,5 +1,5 @@
 [TEAM]
-TeamName          = replaceme
+TeamName          = Sjaars
 RandPostfixNr     = True
 
 #When RandPostfixNr is enabled, "teamname" will become "teamname(x)" with a random number for x
@@ -11,7 +11,7 @@ EnableVisualiser = True
 
 [BOT]
 PrintBotStdErr    = True
-RunCommand        = python3 ./../PythonBot/ExampleBot.py
+RunCommand = java -jar JavaBot.jar
 
 
 [SERVER]
